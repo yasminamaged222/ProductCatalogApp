@@ -1,0 +1,14 @@
+# React
+frontend-react/node_modules/
+frontend-react/build/
+frontend-react/.env.local
+
+# Angular
+frontend-angular/node_modules/
+frontend-angular/dist/
+
+# .NET
+backend-api/bin/
+backend-api/obj/
+backend-api/.vs/
+backend-api/appsettings.Development.json

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Product Catalog App - Full Stack
 
 A complete e-commerce application built with multiple frameworks.
@@ -50,3 +51,7 @@ ng serve
 - **Backend**: C# / .NET Core
 - **Database**: SQL Server
 - **API Docs**: Swagger/OpenAPI
+=======
+# ProductCatalogApp
+Full-stack e-commerce app with React/Angular frontend and .NET Core backend
+>>>>>>> 35aa288f8e90630e4860471de94b49006239eb2a
